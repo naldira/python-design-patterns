@@ -1,7 +1,7 @@
 # Observer implemented example
 
 ---
-## files in services:
+## modules in services package:
 1. email.py: a (fake) email sending service, simply prints onto terminal.
 2. products: plays the role of products in database.
 3. publisher: publisher classes will notify observers that are in their update
@@ -21,7 +21,7 @@ one-to-many relationship with subscribers in its list.
 
 
 ---
-**main.py** uses the python files in services module to create a subscriber.
+**main.py** uses the modules in services package to create a subscriber.
 add to the subscribers wishlist. after that it puts that same item in products
 discount list, if the application is working correctly in next steps the
 publisher should notify the observer, and observer should notify the user via
