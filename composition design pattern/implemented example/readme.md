@@ -2,8 +2,8 @@
 
 applicants are applying for visa from 3 categories (third-world, normal, VIP),
 each applicant has to be background checked by a third party intelligence agency.
-they then have to processed with our eval system and have the results displayed to
-the system operator
+they then have to be processed with our eval system and have the results displayed to
+the system operator.
 
 ---
 
